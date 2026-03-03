@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Green Version</title>
+</head>
+<body style="background-color: lightgreen;">
+  <h1>🟢 GREEN VERSION</h1>
+  <p>This is Green (Canary) Deployment</p>
+</body>
+</html>
+
